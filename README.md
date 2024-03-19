@@ -1,0 +1,1 @@
+This is few Restful API's made to register covid 19 patients by doctors. Doctors can authenticate themselves and register patients with their name, status etc. They can also generate reports of patients and filter patients on basis of symptoms
